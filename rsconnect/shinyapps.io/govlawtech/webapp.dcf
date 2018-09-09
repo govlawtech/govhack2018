@@ -1,0 +1,10 @@
+name: webapp
+title:
+username:
+account: govlawtech
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 429688
+bundleId: 1576561
+url: https://govlawtech.shinyapps.io/webapp/
+when: 1536467044.63368
